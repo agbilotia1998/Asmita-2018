@@ -22,7 +22,7 @@ h3 {
 }
 h4 {
 	font-size: 20px;
-	color: #666;
+	color: white;
 }
 h5 {
 	text-transform: uppercase;
@@ -241,7 +241,7 @@ ol.type li a:hover {
 	margin-bottom: 30px;
 }
 .portfolio-item .hover-bg {
-	height: 170px;
+	height: 250px;
 	overflow: hidden;
 	position: relative;
 }
@@ -288,11 +288,11 @@ ol.type li a:hover {
 #works-section i.fa {
 	height: 30px;
 	width: 30px;
-	border: 1px solid #F5AB35;
+	border: 1px solid white;
 	font-size: 20px;
 	padding: 5px;
 	border-radius: 50%;
-	color: #F5AB35;
+	color: white;
 }
 /* About Section */
 #about-section {

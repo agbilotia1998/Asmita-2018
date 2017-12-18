@@ -1,107 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ccd8b38-aaf3-4a1f-8c44-9053f7b15da2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Asmita-Website.iml" afterPath="$PROJECT_DIR$/.idea/Asmita-Website.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/base.css" afterPath="$PROJECT_DIR$/css/base.css" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" />
-      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" />
-      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" />
-      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" />
-      <change beforePath="$PROJECT_DIR$/css/micons/micons.css" afterPath="$PROJECT_DIR$/css/micons/micons.css" />
-      <change beforePath="$PROJECT_DIR$/css/vendor.css" afterPath="$PROJECT_DIR$/css/vendor.css" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-bold-webfont.woff" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-bold-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-bold-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-bold-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-italic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-italic-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-italic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-italic-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-regular-webfont.woff" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-regular-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-regular-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/librebaskerville/librebaskerville-regular-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/lightgallery/lg.eot" afterPath="$PROJECT_DIR$/fonts/lightgallery/lg.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/lightgallery/lg.svg" afterPath="$PROJECT_DIR$/fonts/lightgallery/lg.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/lightgallery/lg.ttf" afterPath="$PROJECT_DIR$/fonts/lightgallery/lg.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/lightgallery/lg.woff" afterPath="$PROJECT_DIR$/fonts/lightgallery/lg.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/montserrat/montserrat-bold-webfont.woff" afterPath="$PROJECT_DIR$/fonts/montserrat/montserrat-bold-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/montserrat/montserrat-bold-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/montserrat/montserrat-bold-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/montserrat/montserrat-regular-webfont.woff" afterPath="$PROJECT_DIR$/fonts/montserrat/montserrat-regular-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/montserrat/montserrat-regular-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/montserrat/montserrat-regular-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/images/arrow.png" afterPath="$PROJECT_DIR$/images/arrow.png" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/user-01.jpg" afterPath="$PROJECT_DIR$/images/avatars/user-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/user-02.jpg" afterPath="$PROJECT_DIR$/images/avatars/user-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/user-03.jpg" afterPath="$PROJECT_DIR$/images/avatars/user-03.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/user-04.jpg" afterPath="$PROJECT_DIR$/images/avatars/user-04.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/user-05.jpg" afterPath="$PROJECT_DIR$/images/avatars/user-05.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/badminton.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/clients/angular.png" afterPath="$PROJECT_DIR$/images/clients/angular.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/bower.png" afterPath="$PROJECT_DIR$/images/clients/bower.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/buffer.png" afterPath="$PROJECT_DIR$/images/clients/buffer.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/codepen.png" afterPath="$PROJECT_DIR$/images/clients/codepen.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/dribbble.png" afterPath="$PROJECT_DIR$/images/clients/dribbble.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/dropbox.png" afterPath="$PROJECT_DIR$/images/clients/dropbox.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/envato.png" afterPath="$PROJECT_DIR$/images/clients/envato.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/evernote.png" afterPath="$PROJECT_DIR$/images/clients/evernote.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/firefox.png" afterPath="$PROJECT_DIR$/images/clients/firefox.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/github.png" afterPath="$PROJECT_DIR$/images/clients/github.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/grunt.png" afterPath="$PROJECT_DIR$/images/clients/grunt.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/jQuery.png" afterPath="$PROJECT_DIR$/images/clients/jQuery.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/joomla.png" afterPath="$PROJECT_DIR$/images/clients/joomla.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/magento.png" afterPath="$PROJECT_DIR$/images/clients/magento.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/messenger.png" afterPath="$PROJECT_DIR$/images/clients/messenger.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/mozilla.png" afterPath="$PROJECT_DIR$/images/clients/mozilla.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/opera.png" afterPath="$PROJECT_DIR$/images/clients/opera.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/pocket.png" afterPath="$PROJECT_DIR$/images/clients/pocket.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/spotify.png" afterPath="$PROJECT_DIR$/images/clients/spotify.png" />
-      <change beforePath="$PROJECT_DIR$/images/clients/wordpress.png" afterPath="$PROJECT_DIR$/images/clients/wordpress.png" />
-      <change beforePath="$PROJECT_DIR$/images/contact-bg.jpg" afterPath="$PROJECT_DIR$/images/contact-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/football.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hero-bg.jpg" afterPath="$PROJECT_DIR$/images/hero-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/lightgallery/loading.gif" afterPath="$PROJECT_DIR$/images/lightgallery/loading.gif" />
-      <change beforePath="$PROJECT_DIR$/images/lightgallery/video-play.png" afterPath="$PROJECT_DIR$/images/lightgallery/video-play.png" />
-      <change beforePath="$PROJECT_DIR$/images/lightgallery/vimeo-play.png" afterPath="$PROJECT_DIR$/images/lightgallery/vimeo-play.png" />
-      <change beforePath="$PROJECT_DIR$/images/lightgallery/youtube-play.png" afterPath="$PROJECT_DIR$/images/lightgallery/youtube-play.png" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/architecture.jpg" afterPath="$PROJECT_DIR$/images/portfolio/architecture.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-architecture.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-architecture.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-minimalismo.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-minimalismo.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-salad.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-salad.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-shutterbug.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-shutterbug.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-skaterboy.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-skaterboy.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-yellowwall.jpg" afterPath="$PROJECT_DIR$/images/portfolio/gallery/g-yellowwall.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/minimalismo.jpg" afterPath="$PROJECT_DIR$/images/portfolio/minimalismo.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/salad.jpg" afterPath="$PROJECT_DIR$/images/portfolio/salad.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/shutterbug.jpg" afterPath="$PROJECT_DIR$/images/portfolio/shutterbug.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/skaterboy.jpg" afterPath="$PROJECT_DIR$/images/portfolio/skaterboy.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/yellowwall.jpg" afterPath="$PROJECT_DIR$/images/portfolio/yellowwall.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/sample-image.jpg" afterPath="$PROJECT_DIR$/images/sample-image.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/services-bg.jpg" afterPath="$PROJECT_DIR$/images/services-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/shutterbug.jpg" afterPath="$PROJECT_DIR$/images/shutterbug.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/sprint.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/swimming.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/tt.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" afterPath="$PROJECT_DIR$/inc/sendEmail.php" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
-      <change beforePath="$PROJECT_DIR$/js/pace.min.js" afterPath="$PROJECT_DIR$/js/pace.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
-      <change beforePath="$PROJECT_DIR$/styles.html" afterPath="$PROJECT_DIR$/styles.html" />
-    </list>
+    <list default="true" id="2ccd8b38-aaf3-4a1f-8c44-9053f7b15da2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -117,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="125">
+              <caret line="440" column="0" lean-forward="true" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,8 +27,18 @@
       <file leaf-file-name="team.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="-477">
+              <caret line="196" column="68" lean-forward="false" selection-start-line="196" selection-start-column="68" selection-end-line="196" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="243" column="15" lean-forward="false" selection-start-line="243" selection-start-column="15" selection-end-line="243" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -137,8 +47,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="1263" column="12" lean-forward="false" selection-start-line="1263" selection-start-column="12" selection-end-line="1263" selection-end-column="12" />
+            <state relative-caret-position="166">
+              <caret line="2012" column="20" lean-forward="false" selection-start-line="2012" selection-start-column="20" selection-end-line="2012" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -149,8 +59,24 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>logo</find>
+      <find>col-md-3 col-lg-3</find>
       <find>ico</find>
+      <find>fa</find>
+      <find>Project Title</find>
+      <find>what</find>
+      <find>&lt;small&gt;</find>
+      <find>user-01</find>
+      <find>21</find>
+      <find>h4</find>
+      <find>main.css</find>
+      <find>.po</find>
     </findStrings>
+    <replaceStrings>
+      <replace>col-md-4 col-lg-4</replace>
+      <replace>Ayush Gupta</replace>
+      <replace>&lt;small&gt;&lt;a href=&quot;https://www.facebook.com/profile.php?id=100012952303406&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;</replace>
+      <replace>user-02</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -158,8 +84,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/team.html" />
       </list>
     </option>
@@ -248,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513453802491</updated>
       <workItem from="1513453803830" duration="1997000" />
-      <workItem from="1513622356645" duration="1893000" />
+      <workItem from="1513622356645" duration="5146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3890000" />
+    <option name="totallyTimeSpent" value="7143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1000" extended-state="6" />
@@ -298,26 +225,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="1263" column="12" lean-forward="false" selection-start-line="1263" selection-start-column="12" selection-end-line="1263" selection-end-column="12" />
+        <state relative-caret-position="125">
+          <caret line="440" column="0" lean-forward="true" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        <state relative-caret-position="166">
+          <caret line="2012" column="20" lean-forward="false" selection-start-line="2012" selection-start-column="20" selection-end-line="2012" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="243" column="15" lean-forward="false" selection-start-line="243" selection-start-column="15" selection-end-line="243" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="-477">
+          <caret line="196" column="68" lean-forward="false" selection-start-line="196" selection-start-column="68" selection-end-line="196" selection-end-column="68" />
           <folding />
         </state>
       </provider>
