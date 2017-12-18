@@ -191,6 +191,7 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-left: 20px;
+	margin-bottom: 27px;
 }
 ol.type li a {
 	color: #aaa;
