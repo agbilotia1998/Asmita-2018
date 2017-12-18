@@ -1260,10 +1260,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 57px;
-  height: 27px;
+  width: 90px;
+  height: 50px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 57px 27px;
+  background-size: 90px 50px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
