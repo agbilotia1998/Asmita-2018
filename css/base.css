@@ -342,7 +342,7 @@ textarea {
 .row {
   width: 94%;
   max-width: 1170px;
-  margin: 0 auto;
+  margin: 0 auto
 }
 .row:before, .row:after {
   content: "";
