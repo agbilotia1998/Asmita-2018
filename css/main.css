@@ -1489,9 +1489,9 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 225px;
-    height: 180px;
-    background-size: 225px 180px;
+    width: 143px;
+    height: 120px;
+    background-size: 143px 120px;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -1518,6 +1518,8 @@ header .header-logo a {
   background-attachment: fixed;
   min-height: 804px;
   position: relative;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
 }
 #home .overlay {
   position: absolute;
