@@ -1260,10 +1260,10 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: none;
-  width: 90px;
-  height: 50px;
+  width: 187px;
+  height: 150px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 90px 50px;
+  background-size: 187px 150px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1489,9 +1489,9 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 51px;
-    height: 24px;
-    background-size: 51px 24px;
+    width: 225px;
+    height: 180px;
+    background-size: 225px 180px;
   }
 }
 @media only screen and (max-width: 400px) {
