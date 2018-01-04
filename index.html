@@ -226,19 +226,111 @@
 <script src="js/jquery-2.1.3.min.js"></script>
 <script>
 
-  var json = [{"name": "Badminton", "description": "Badminton", "venue": "Main Ground","time":"9:00 AM","organiser1":"Ayush","organiser2":"Abhinav"}, {
-    "name": "Hockey",
-    "description": "Hockey",
-    "venue": "BH 1",
-    "time":"10:00 AM","organiser1":"Harsh","organiser2":"Abhishek"
-  }, {"name": "Cricket", "description": "Cricket", "venue": "BH 2","time":"11:00 AM","organiser1":"Harshit","organiser2":"Ashish"}];
+  var json = [
+  {
+    "Event": "Basketball",
+    "organiser 1": "Nishant Malik",
+    "organiser 2": "Sudhanshu Shakya",
+    "Venue": "Basketball Court"
+  },
+  {
+    "Event": "Volleyball",
+    "organiser 1": "Rohit Kumar Verma",
+    "organiser 2": "Dheeraj Chouhan",
+    "Venue": "Volleyball Court, Main Ground"
+  },
+  {
+    "Event": "Football",
+    "organiser 1": "Badnena Upendra",
+    "organiser 2": "Nitin Vijay",
+    "Venue": "Main Ground, campus"
+  },
+  {
+    "Event": "Squash",
+    "organiser 1": "Shreerang Ajmire",
+    "organiser 2": "",
+    "Venue": "Squash court"
+  },
+  {
+    "Event": "Table Tennis",
+    "organiser 1": "Pranav Mahajan",
+    "organiser 2": "Parth Agarwal",
+    "Venue": "TT room, SAC"
+  },
+  {
+    "Event": "Kho-Kho",
+    "organiser 1": "Rohit Kumar",
+    "organiser 2": "Hiral Agarwal",
+    "Venue": "Main Ground"
+  },
+  {
+    "Event": "Carrom",
+    "organiser 1": "Sourav Mitra",
+    "organiser 2": "Druval CR",
+    "Venue": "SAC"
+  },
+  {
+    "Event": "Chess",
+    "organiser 1": "Ansuman pratap Singh",
+    "organiser 2": "Sunil Bansiwal",
+    "Venue": "SAC"
+  },
+  {
+    "Event": "Handball",
+    "organiser 1": "Prakash Kumar",
+    "organiser 2": "mourya avula",
+    "Venue": "Rannbhoomi"
+  },
+  {
+    "Event": "Kabaddi",
+    "organiser 1": "Madhur Gupta",
+    "organiser 2": "Anirudh Singh Rathore",
+    "Venue": "Main Ground"
+  },
+  {
+    "Event": "Tug of War",
+    "organiser 1": "Aswin",
+    "organiser 2": "Aswanth",
+    "Venue": "Main Ground"
+  },
+  {
+    "Event": "Bench Press",
+    "organiser 1": "Rishabh Agnihotri",
+    "organiser 2": "Akshay Kumar",
+    "Venue": "Gym, VH-1"
+  },
+  {
+    "Event": "Dead Lift",
+    "organiser 1": "Rishabh Agnihotri",
+    "organiser 2": "Akshay Kumar",
+    "Venue": "Gym, VH-1"
+  },
+  {
+    "Event": "Body Zorbing",
+    "organiser 1": "Abhijeet Prakash",
+    "organiser 2": "Anjali Pandey",
+    "Venue": "Rannbhoomi"
+  },
+  {
+    "Event": "Archery",
+    "organiser 1": "Shailendra",
+    "organiser 2": "",
+    "Venue": "Rannbhoomi"
+  },
+  {
+    "Event": "Fifa",
+    "organiser 1": "Pavan Kr. Reddy",
+    "organiser 2": "Mohammed Haris",
+    "Venue": "Rannbhoomi"
+  }
+];
 
   for (var i = 0; i < json.length; i++) {
     // $('.bricks-wrapper').append("<img src='images/portfolio/badminton.jpg' alt='Skaterboy'>");
     $('.bricks-wrapper').append("<div class='brick folio-item'><div class='item-wrap animate-this' data-src='images/portfolio/badminton.jpg' data-sub-html='#" + i + "'>" +
       "<a href='#' class='overlay'> <img src='images/portfolio/badminton.jpg' alt='Skaterboy'> <div class='item-text'><span class='folio-types'>" +
-      "</span><h3 class='folio-title'>" + json[i].name + "</h3></div> </a><a href='https://www.behance.net/' class='details-link' title='details'><i class='icon-link'></i>" +
-      "</a></div> <!-- end item-wrap --> <div id='" + i + "' class='hide'>ORGANIZERS:<ul style='list-style: none;'><li>"+json[i].organiser1+"</li><li>"+json[i].organiser2+"</li></ul><h4> VENUE: " + json[i].venue + "</h4><h4> TIME: "+ json[i].time +"</h4> <p>" + json[i].description + "</p></div></div>"
+      "</span><h3 class='folio-title'>" + json[i].Event + "</h3></div> </a><a href='https://www.behance.net/' class='details-link' title='details'><i class='icon-link'></i>" +
+      "</a></div> <!-- end item-wrap --> <div id='" + i + "' class='hide'>ORGANIZERS:<ul style='list-style: none;'><li>"+json[i].organiser1+"</li><li>"+json[i].organiser2+"</li></ul><h4> VENUE: " + json[i].Venue + "</h4><h4> TIME: "+ json[i].time +"</h4> <p>" + json[i].description + "</p></div></div>"
     );
   }
 </script>
