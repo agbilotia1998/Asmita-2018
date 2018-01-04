@@ -229,99 +229,99 @@
   var json = [
   {
     "Event": "Basketball",
-    "organiser 1": "Nishant Malik",
-    "organiser 2": "Sudhanshu Shakya",
-    "Venue": "Basketball Court"
+    "organiser1": "Nishant Malik",
+    "organiser2": "Sudhanshu Shakya",
+    "venue": "Basketball Court"
   },
   {
     "Event": "Volleyball",
-    "organiser 1": "Rohit Kumar Verma",
-    "organiser 2": "Dheeraj Chouhan",
-    "Venue": "Volleyball Court, Main Ground"
+    "organiser1": "Rohit Kumar Verma",
+    "organiser2": "Dheeraj Chouhan",
+    "venue": "Volleyball Court, Main Ground"
   },
   {
     "Event": "Football",
-    "organiser 1": "Badnena Upendra",
-    "organiser 2": "Nitin Vijay",
-    "Venue": "Main Ground, campus"
+    "organiser1": "Badnena Upendra",
+    "organiser2": "Nitin Vijay",
+    "venue": "Main Ground, campus"
   },
   {
     "Event": "Squash",
-    "organiser 1": "Shreerang Ajmire",
-    "organiser 2": "",
-    "Venue": "Squash court"
+    "organiser1": "Shreerang Ajmire",
+    "organiser2": "",
+    "venue": "Squash court"
   },
   {
     "Event": "Table Tennis",
-    "organiser 1": "Pranav Mahajan",
-    "organiser 2": "Parth Agarwal",
-    "Venue": "TT room, SAC"
+    "organiser1": "Pranav Mahajan",
+    "organiser2": "Parth Agarwal",
+    "venue": "TT room, SAC"
   },
   {
     "Event": "Kho-Kho",
-    "organiser 1": "Rohit Kumar",
-    "organiser 2": "Hiral Agarwal",
-    "Venue": "Main Ground"
+    "organiser1": "Rohit Kumar",
+    "organiser2": "Hiral Agarwal",
+    "venue": "Main Ground"
   },
   {
     "Event": "Carrom",
-    "organiser 1": "Sourav Mitra",
-    "organiser 2": "Druval CR",
-    "Venue": "SAC"
+    "organiser1": "Sourav Mitra",
+    "organiser2": "Druval CR",
+    "venue": "SAC"
   },
   {
     "Event": "Chess",
-    "organiser 1": "Ansuman pratap Singh",
-    "organiser 2": "Sunil Bansiwal",
-    "Venue": "SAC"
+    "organiser1": "Ansuman pratap Singh",
+    "organiser2": "Sunil Bansiwal",
+    "venue": "SAC"
   },
   {
     "Event": "Handball",
-    "organiser 1": "Prakash Kumar",
-    "organiser 2": "mourya avula",
-    "Venue": "Rannbhoomi"
+    "organiser1": "Prakash Kumar",
+    "organiser2": "mourya avula",
+    "venue": "Rannbhoomi"
   },
   {
     "Event": "Kabaddi",
-    "organiser 1": "Madhur Gupta",
-    "organiser 2": "Anirudh Singh Rathore",
-    "Venue": "Main Ground"
+    "organiser1": "Madhur Gupta",
+    "organiser2": "Anirudh Singh Rathore",
+    "venue": "Main Ground"
   },
   {
     "Event": "Tug of War",
-    "organiser 1": "Aswin",
-    "organiser 2": "Aswanth",
-    "Venue": "Main Ground"
+    "organiser1": "Aswin",
+    "organiser2": "Aswanth",
+    "venue": "Main Ground"
   },
   {
     "Event": "Bench Press",
-    "organiser 1": "Rishabh Agnihotri",
-    "organiser 2": "Akshay Kumar",
-    "Venue": "Gym, VH-1"
+    "organiser1": "Rishabh Agnihotri",
+    "organiser2": "Akshay Kumar",
+    "venue": "Gym, VH-1"
   },
   {
     "Event": "Dead Lift",
-    "organiser 1": "Rishabh Agnihotri",
-    "organiser 2": "Akshay Kumar",
-    "Venue": "Gym, VH-1"
+    "organiser1": "Rishabh Agnihotri",
+    "organiser2": "Akshay Kumar",
+    "venue": "Gym, VH-1"
   },
   {
     "Event": "Body Zorbing",
-    "organiser 1": "Abhijeet Prakash",
-    "organiser 2": "Anjali Pandey",
-    "Venue": "Rannbhoomi"
+    "organiser1": "Abhijeet Prakash",
+    "organiser2": "Anjali Pandey",
+    "venue": "Rannbhoomi"
   },
   {
     "Event": "Archery",
-    "organiser 1": "Shailendra",
-    "organiser 2": "",
-    "Venue": "Rannbhoomi"
+    "organiser1": "Shailendra",
+    "organiser2": "",
+    "venue": "Rannbhoomi"
   },
   {
     "Event": "Fifa",
-    "organiser 1": "Pavan Kr. Reddy",
-    "organiser 2": "Mohammed Haris",
-    "Venue": "Rannbhoomi"
+    "organiser1": "Pavan Kr. Reddy",
+    "organiser2": "Mohammed Haris",
+    "venue": "Rannbhoomi"
   }
 ];
 
@@ -330,7 +330,7 @@
     $('.bricks-wrapper').append("<div class='brick folio-item'><div class='item-wrap animate-this' data-src='images/portfolio/badminton.jpg' data-sub-html='#" + i + "'>" +
       "<a href='#' class='overlay'> <img src='images/portfolio/badminton.jpg' alt='Skaterboy'> <div class='item-text'><span class='folio-types'>" +
       "</span><h3 class='folio-title'>" + json[i].Event + "</h3></div> </a><a href='https://www.behance.net/' class='details-link' title='details'><i class='icon-link'></i>" +
-      "</a></div> <!-- end item-wrap --> <div id='" + i + "' class='hide'>ORGANIZERS:<ul style='list-style: none;'><li>"+json[i].organiser%201+"</li><li>"+json[i].organiser%202+"</li></ul><h4> VENUE: " + json[i].Venue + "</h4><h4> TIME: "+ json[i].time +"</h4> <p>" + json[i].description + "</p></div></div>"
+      "</a></div> <!-- end item-wrap --> <div id='" + i + "' class='hide'>ORGANIZERS:<ul style='list-style: none;'><li>"+json[i].organiser1+"</li><li>"+json[i].organiser2+"</li></ul><h4> VENUE: " + json[i].Venue + "</h4><h4> TIME: "+ json[i].time +"</h4> <p>" + json[i].description + "</p></div></div>"
     );
   }
 </script>
