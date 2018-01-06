@@ -1,28 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Asmita</title>
+    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Aparoksha 2018 registrations are open. Dates are 16th- 18th March 2018. Exciting events">
-    <meta name="author" content="Aproksha 2018">
-    <title>Asmita Registrations</title>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Asmita</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Favicons
+        ================================================== -->
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
     <!-- Bootstrap -->
-    <link href="../../css/bootstrap.min.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href='../../css/dosis-font.css' rel='stylesheet' type='text/css'>
-    <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+
+    <!-- Stylesheet
+        ================================================== -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/modernizr.custom.js"></script>
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS
+  ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+     ================================================== -->
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/templatemo-style.css">
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".side-menu">
+<section id="portfolio">
 
+    <div class="intro-wrap">
+        <center>
+            <div class="row narrow section-intro with-bottom-sep animate-this">
+                <div class="col-twelve">
+
+                    <h1>Register</h1>
+
+                </div>
+            </div> <!-- end row section-intro -->
+        </center>
+
+    </div> <!-- end intro-wrap -->
+    <br>
 <div class="container">
 <center>
     <div class="col-md-12 contact-form">
-        <h2 class="content-ct" style="font-weight:bold; margin-bottom:1em;"><span class="ti-email"></span> Register Here</h2>
 
     <form class="form-horizontal" data-toggle="validator" action="submit.php" role="form" method="post" name="f">
         <div class="form-group">
@@ -57,23 +114,154 @@
                 <span class="form-control-feedback" aria-hidden="true"></span>
             </div>
         </div>
+        <div class="form-group">
+            <label for="mobile" class="col-sm-2 control-label">Team Name /Captain Name /Contingent leader<sup>*</sup></label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="tname" name="tname" placeholder=""  required>
+                <div class="help-block with-errors pull-right"></div>
+                <span class="form-control-feedback" aria-hidden="true"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="mobile" class="col-sm-2 control-label">Team size<sup>*</sup></label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="tsize" name="tsize" placeholder="Team size"  required>
+                <div class="help-block with-errors pull-right"></div>
+                <span class="form-control-feedback" aria-hidden="true"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="mobile" class="col-sm-2 control-label">Event Interested in<sup>*</sup></label>
+            <div class="col-sm-9">
+                    <div class="multiselect">
+                        <div class="selectBox" onclick="showCheckboxes()">
+                            <select>
+                                <option>Select events</option>
+                            </select>
+                            <div class="overSelect"></div>
+                        </div>
+                        <div id="checkboxes">
+                            <label for="one">
+                                <input type="checkbox" name="interest[]" id="one" value="Basketball" />Basketball</label>
+                            <label for="two">
+                                <input type="checkbox" name="interest[]" id="two" value="Volleyball"/>Volleyball</label>
+                            <label for="three">
+                                <input type="checkbox" name="interest[]" id="three" value="Squash"/>Squash</label>
+                            <label for="four">
+                                <input type="checkbox" name="interest[]" id="four" value="Football"/>Football</label>
+                            <label for="five">
+                                <input type="checkbox" name="interest[]" id="five" value="Kho-Kho"/>Kho-Kho</label>
+                            <label for="six">
+                                <input type="checkbox" name="interest[]" id="six" value="Table Tennis"/>Table Tennis</label>
+                            <label for="seven">
+                                <input type="checkbox" name="interest[]" id="seven" value="Carrom"/>Carrom</label>
+                            <label for="eight">
+                                <input type="checkbox" name="interest[]" id="eight" value="Chess"/>Chess</label>
+                            <label for="nine">
+                                <input type="checkbox" name="interest[]" id="nine" value="Handball"/>Handball</label>
+                            <label for="ten">
+                                <input type="checkbox" name="interest[]" id="ten" value="Kabaddi" />Kabaddi</label>
+                            <label for="eleven">
+                                <input type="checkbox" name="interest[]" id="eleven" value="Tug Of War"/>Tug of war</label>
+                            <label for="twelve">
+                                <input type="checkbox" name="interest[]" id="twelve" value="Bench Press"/>Bench Press</label>
+                            <label for="thirteen">
+                                <input type="checkbox" name="interest[]" id="thirteen" value="Archery"/>Archery</label>
+                            <label for="fourteen">
+                                <input type="checkbox" name="interest[]" id="fourteen" value="Dead Lift"/>Dead Lift</label>
+                            <label for="fifteen">
+                                <input type="checkbox" name="interest[]" id="fifteen" value="Body Zorbing"/>Body Zorbing</label>
+                            <label for="sixteen">
+                                <input type="checkbox" name="interest[]" id="sixteen" value="Fifa"/>Fifa</label>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
 
         <div class="form-group">
             <div class="col-sm-12" style="text-align:center; margin-top:1em;">
-                <button type="submit" id="submit" name="sub" class="btn btn-yellow">Submit<i class="fa fa-paper-plane" aria-hidden="true" style="padding-left:0.6em;"></i></button>
+                <button style="background-color: #fcd93b;" type="submit" id="submit" name="sub" class="btn btn-yellow">Submit<i class="fa fa-paper-plane" aria-hidden="true" style="padding-left:0.6em;"></i></button>
             </div>
         </div>
     </form>
 </div>
 </center>
 </div>
+</section>
+<style>
+
+    .selectBox {
+        position: relative;
+    }
+
+    .selectBox select {
+        width: 100%;
+        font-weight: bold;
+    }
+
+    .overSelect {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+
+    #checkboxes {
+        display: none;
+        border: 1px #dadada solid;
+    }
+
+    #checkboxes label {
+        display: block;
+    }
+
+    #checkboxes label:hover {
+        background-color: #1e90ff;
+    }
+</style>
+<script>
+  var expanded = false;
+
+  function showCheckboxes() {
+    var checkboxes = document.getElementById("checkboxes");
+    if (!expanded) {
+      checkboxes.style.display = "block";
+      expanded = true;
+    } else {
+      checkboxes.style.display = "none";
+      expanded = false;
+    }
+  }
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/SmoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.js"></script>
+<script type="text/javascript" src="js/waypoints.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+<script type="text/javascript" src="js/contact_me.js"></script>
+
+<!-- Javascripts
+    ================================================== -->
+<script type="text/javascript" src="js/teamMain.js"></script>
 
 
-<script src="../../js/jquery.min.js"></script>
-<script src="../../js/bootstrap.min.js"></script>
-<script src="../../js/jquery.easing.min.js"></script>
-<script src="../../js/scrolling-nav.js"></script>
-<script src="../../js/validator.js"></script>
+<!-- Java Script
+================================================== -->
+<script src="js/jquery-2.1.3.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+
+<script src="js/vendor/jquery-1.10.2.min.js"></script>
+<script src="js/min/plugins.min.js"></script>
+<script src="js/min/main.min.js"></script>
 
 </body>
 </html>
